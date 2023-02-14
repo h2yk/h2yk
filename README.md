@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+  hayabusa2yk
+</h1>
+<p align="center">
+  Tech enthusiast, playing games sometimes.
+</p>
+
+---
 
 <!--
 **h2yk/h2yk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
